@@ -12,7 +12,7 @@
 
 ### 👨‍💻: &nbsp;About Me :
 
-I am a Full Stack Developer from London.
+I am a Full Stack Developer living in London.
 
 - 🔭 Currently working at at [Hertility Health](https://hertilityhealth.com/). 
 - 🌱 Exploring NextJS and Deno
