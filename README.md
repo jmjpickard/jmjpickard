@@ -15,8 +15,6 @@
 I am a Full Stack Developer living in London.
 
 - 🔭 Currently working at at [Hertility Health](https://hertilityhealth.com/). 
-- 🌱 Exploring NextJS and Deno
-- In my free time I love following pretty much any sport but in particular golf ⛳, rugby 🏉 and cricket 🏏
 
 ---
 
